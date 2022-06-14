@@ -2,3 +2,7 @@
 
 !/package.json
 !/yarn.lock
+!/tsconfig.json
+!/jest.config.js
+!/.eslintrc.js
+!/.prettierrc
